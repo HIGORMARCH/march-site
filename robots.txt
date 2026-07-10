@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_logos.html
+Disallow: /logo-escolha.html
+
+Sitemap: https://marchcontabilidade.com.br/sitemap.xml

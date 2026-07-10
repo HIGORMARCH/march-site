@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "march-site",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["-m", "http.server", "5510", "--directory", "C:\\Dev\\march-site"],
+      "port": 5510
+    }
+  ]
+}

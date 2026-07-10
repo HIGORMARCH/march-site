@@ -1,0 +1,24 @@
+# Arquivos internos / documentação — não sobem no site nem no repo público
+*.docx
+Acessos_e_Informacoes_Site_March.docx
+Especificacao_API_NFCom_March.docx
+Relatorio_Site_March.docx
+
+# Deploy antigo (HostGator)
+march-site-deploy.zip
+COMO-PUBLICAR-HOSTGATOR.txt
+Cotacoes_VPS_Comparativo.md
+Solicitacao_Voeclaude_Autorizacoes.md
+
+# Ferramenta interna
+sped_splitter/
+
+# Pré-visualizações
+_logos.html
+logo-escolha.html
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
